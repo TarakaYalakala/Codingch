@@ -1,2 +1,2 @@
 
-const c = 20;
+const c = 70;
